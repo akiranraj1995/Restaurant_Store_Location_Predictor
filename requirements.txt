@@ -4,6 +4,6 @@ numpy == 1.20.1
 matplotlib == 3.3.4
 seaborn == 0.11.1
 scikit-learn == 0.24.1
-python == 3.7.4
+python
 pickle
 image == 1.5.33
