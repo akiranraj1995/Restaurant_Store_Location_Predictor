@@ -23,7 +23,7 @@ loaded_model=pickle.load(open("store.sav","rb"))
 from PIL import Image
 
 #LOADING THE IMAGE FROM LOCAL DIRECTORY
-image = Image.open('/home/expert/GitHub/Food_Restaurants_Location_Predictor-main/HT.jpg')
+image = Image.open('HT.jpg')
 st.image(image, caption='FOOD RESTAURANT LOCATION PREDICTOR')
  
 
