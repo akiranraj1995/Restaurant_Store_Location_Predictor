@@ -1,4 +1,4 @@
-# Food_Restaurants_Location_Predictor
+# Restaurant_Store_Location_Predictor
 
 A BRIEF SUMMARY ABOUT THE PROJECT: 
 
