@@ -16,4 +16,4 @@ Deployed on Cloud
 1.IDE (Integrated Development Environment Used)- Spyder, 2.Data Visualization packages used- Matplotlib,Seaborn 3.MACHINE LEARNING ALGORITHM used- Scikit-Learn Linear Regression, 4.WEB APPLICATION TOOL Used- Streamlit, 5.Image Uploaded package- Pillow 6.Cloud Deployment- Heroku
 
 # CLOUD DEPLOYED WEB APPLICATION:
-And Cloud Deployed Food_Restaurants_Location_Predictor on Heroku Platform Link: https://restaurant-location-app.herokuapp.com/
+[Cloud Deployed Food_Restaurants_Location_Predictor.](https://akiranraj1995-restaurant-store-location-predictor-app-lov8ow.streamlit.app/) 
